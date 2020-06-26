@@ -1,3 +1,3 @@
 Descripción aplicación
-Colaboradores
+Equipo
 Instalación
