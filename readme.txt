@@ -1,2 +1,2 @@
-Descripción
+Descripción aplicación
 Colaboradores
