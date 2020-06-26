@@ -1,3 +1,3 @@
-Descripción
+Descripción aplicación
 Colaboradores
 Instalación
