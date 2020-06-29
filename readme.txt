@@ -1,3 +1,3 @@
 Descripción aplicación
-Desarrolladores
+Equipo
 Instalación
